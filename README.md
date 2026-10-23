@@ -9,6 +9,10 @@ A curated, practical reading list for routing requests across large language mod
 - [Follow the Entities: A Corpus Map for Agentic Search](papers/003-corpusmap.md) — entity-based corpus navigation for agentic search and evidence discovery.
 - [Detecting Functional Bugs in Smart Contracts through LLM-Powered and Bug-Oriented Composite Analysis](papers/004-promfuzz.md) — composite LLM analysis and bug-oriented fuzzing for smart contracts.
 - [ORACLE: Agentic AI Orchestrator Routing Via Adaptive Verifier Calibration Feedback](papers/005-oracle.md) — adaptive verification, concurrency-aware routing, and queue-aware dispatch.
+- [RouteLLM: Learning to Route LLMs with Preference Data](papers/006-routellm.md) — preference-trained routing between stronger and weaker models.
+- [Large Language Model Routing with Benchmark Datasets](papers/007-benchmark-routing.md) — foundational benchmark-based model selection and routing.
+- [RouterEval: A Comprehensive Benchmark for Routing LLMs](papers/008-routereval.md) — large-scale evaluation across thousands of model candidates.
+- [The Workload–Router–Pool Architecture for LLM Inference Optimization](papers/009-workload-router-pool.md) — workload-, router-, and serving-pool-aware production architecture.
 
 ## Scope
 
